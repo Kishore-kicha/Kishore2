@@ -1,4 +1,0 @@
-Hello, This is Kishore!
-Nice to meet you
-The initial working version of Git's code was very simple, so much so that he finds it deserving of insult. An acronym for Global Information Tracker, at least when it works properly
-Git is an Open Source Distributed Version Control System. Now that's a lot of words to define Git. Let me break it down and explain the wording: Control System: This basically means that Git is a content tracker.
